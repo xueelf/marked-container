@@ -1,2 +1,3 @@
 # marked-container
-marked extension for custom containers
+
+A Marked extension, parsing custom containers in markdown.
